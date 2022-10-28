@@ -8,12 +8,14 @@ export default class Home extends Component {
     render() {
         return (
             <div className="home">
-                <Header />
+                <div>
+                    <Header />
+                </div>
 
-                 <div>
+                <div>
                     <Body />
                 </div>
-              {/*
+                {/*
                 <div>
                     <Footer />
                 </div> */}

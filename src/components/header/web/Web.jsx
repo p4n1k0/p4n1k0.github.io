@@ -7,7 +7,7 @@ export default class Web extends Component {
         return (
             <div className="web">
                 <div className="web-option">
-                    <Link to="/project"> <i class="fi-rr-edit-alt option-icon">Projetos</i> </Link>
+                    <Link to="/project" target="_blank"> <i class="fi-rr-edit-alt option-icon">Projetos</i> </Link>
                 </div>
 
                 <div className="web-option">
