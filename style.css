@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(111, 228, 164);
+    padding: 4%;
+}
+
+.meuNome {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 36%;
+    right: 8%;
+}
+
+em {
+    color: rgb(67, 138, 83);
+}
+
+.javascript {
+    font-size: 20px;
+}
+
+.sql {
+    font-size: 18px;
+}
+
+.react {
+    font-size: 16px;
+}
+
+.bootstrap {
+    font-size: 14px;
+}
+
+.metoAgil {
+    font-size: 12px;
+}
+
+#minha-foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: yellow;
+}
+
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+ul li:nth-child(odd) {
+    background-color: aqua;
+}
